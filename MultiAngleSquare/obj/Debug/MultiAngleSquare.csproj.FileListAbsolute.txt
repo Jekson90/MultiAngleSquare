@@ -1,0 +1,9 @@
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\bin\Debug\MultiAngleSquare.exe
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\bin\Debug\MultiAngleSquare.pdb
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.csprojAssemblyReference.cache
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.Properties.Resources.resources
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.csproj.GenerateResource.cache
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.csproj.CoreCompileInputs.cache
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.exe
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.pdb
+C:\Users\jekso\Dropbox\C#\MultiAngleSquare\MultiAngleSquare\obj\Debug\MultiAngleSquare.MainForm.resources
